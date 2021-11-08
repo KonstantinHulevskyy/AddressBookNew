@@ -7,7 +7,6 @@ Following features have been implemented at the moment:
 - Delete contacts
 - Edit contacts
 - search by text fields
-- Contacts are stored in sqlite DB via Django ORM
 
 ## Install 
 

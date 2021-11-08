@@ -1,4 +1,4 @@
-from django.views.generic import TemplateView, CreateView, DeleteView, UpdateView, View
+from django.views.generic import TemplateView, CreateView, DeleteView, UpdateView
 from django.urls import reverse_lazy
 from .forms import CreatePersonForm
 from .models import Person
